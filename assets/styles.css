@@ -1,0 +1,12 @@
+.products {
+  background-color: azure;
+}
+
+.product {
+  height: 100%;
+  width: 18rem;
+}
+
+.shoppingCart {
+  height: 30px;
+}
